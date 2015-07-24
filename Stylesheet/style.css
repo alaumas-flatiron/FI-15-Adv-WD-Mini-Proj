@@ -12,6 +12,11 @@ button {
   color: transparent;
 }
 
+.column0 {
+  float: left;
+  padding: 10px;
+}
+
 .column1 {
   float: left;
   padding: 10px;
@@ -42,10 +47,7 @@ button {
   padding: 10px;
 }
 
-.column7 {
-  float: left;
-  padding: 10px;
-}
+
 #light span {
    border-radius: 50px;
    display: block;
