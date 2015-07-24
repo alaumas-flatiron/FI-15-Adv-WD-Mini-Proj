@@ -3,14 +3,49 @@ button {
    margin-top: 10px;
 }
 
-#light {
+.space {
    background-color: #000;
    box-shadow: 0 0 5px rgba(0,0,0, .8);
    overflow: hidden;
    padding: 0 0 4px;
    width: 120px;
+  color: transparent;
 }
 
+.column1 {
+  float: left;
+  padding: 10px;
+}
+
+.column2 {
+  float: left;
+  padding: 10px;
+}
+
+.column3 {
+  float: left;
+  padding: 10px;
+}
+
+.column4 {
+  float: left;
+  padding: 10px;
+}
+
+.column5 {
+  float: left;
+  padding: 10px;
+}
+
+.column6 {
+  float: left;
+  padding: 10px;
+}
+
+.column7 {
+  float: left;
+  padding: 10px;
+}
 #light span {
    border-radius: 50px;
    display: block;
